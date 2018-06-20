@@ -22,3 +22,9 @@
 * 개념 설명
   * http://brownbears.tistory.com/323
   * https://ko.atlassian.com/agile/kanban
+
+## Mysql
+* https://community.toadworld.com/platforms/oracle/b/weblog/archive/2017/03/17/migrating-from-oracle-to-mysql
+* http://www.sqlines.com/online
+* http://sarc.io/index.php/mariadb/605-dbms-migration-oracle-to-mysql-mariadb
+* http://www.sqlines.com/oracle-to-mysql
