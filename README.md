@@ -11,3 +11,11 @@
   * CE 버전은 무료로 이용 
 * http://codebrag.com/
   * 오픈소스이나 형상관리가 안되고 있음
+
+## 칸반 Tool 정리
+* http://linuxbsdos.com/2017/01/09/4-open-source-alternatives-to-trello-that-you-can-self-host/
+* https://alternativeto.net/software/personal-kanban/?license=opensource
+* 시도해볼만한 Tool
+  * https://kanboard.org/
+  * https://github.com/wekan/wekan/releases
+  * http://kanban.leanlabs.io/downloads/
