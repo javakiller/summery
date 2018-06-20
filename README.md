@@ -19,3 +19,6 @@
   * https://kanboard.org/
   * https://github.com/wekan/wekan/releases
   * http://kanban.leanlabs.io/downloads/
+* 개념 설명
+  * http://brownbears.tistory.com/323
+  * https://ko.atlassian.com/agile/kanban
