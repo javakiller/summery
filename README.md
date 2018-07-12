@@ -32,3 +32,10 @@
 * http://www.sqlines.com/online
 * http://sarc.io/index.php/mariadb/605-dbms-migration-oracle-to-mysql-mariadb
 * http://www.sqlines.com/oracle-to-mysql
+
+## DevOops
+* https://www.guru99.com/devops-tools.html
+* https://devops.com/most-popular-open-source-devops-tools/
+* https://www.edureka.co/blog/top-10-devops-tools/
+* https://github.com/collections/devops-tools
+* https://www.smartsheet.com/devops-tools
