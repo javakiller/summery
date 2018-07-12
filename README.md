@@ -39,3 +39,5 @@
 * https://www.edureka.co/blog/top-10-devops-tools/
 * https://github.com/collections/devops-tools
 * https://www.smartsheet.com/devops-tools
+* 젠킨스 파이프라인 사용기
+  * https://blog.kingbbode.com/posts/jenkins-dsl-to-pipeline
