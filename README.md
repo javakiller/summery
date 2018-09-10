@@ -41,3 +41,8 @@
 * https://www.smartsheet.com/devops-tools
 * 젠킨스 파이프라인 사용기
   * https://blog.kingbbode.com/posts/jenkins-dsl-to-pipeline
+  
+## DDD
+* https://softwareengineering.stackexchange.com/questions/365192/project-structure-of-domain-driven-design-in-maven-java-spring-boot
+* https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd
+
